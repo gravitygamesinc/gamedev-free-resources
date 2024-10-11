@@ -98,6 +98,11 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
 [UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
 
+## 🕹 Game Design  
+
+**Mechanics**  
+[Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
+
 ## 💻 Programming  
 
 **Code**  
@@ -118,8 +123,4 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [SimpleAI](https://mgerhardy.github.io/simpleai/) - Open-source Java library for basic AI behavior in games.  
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - Free assets for game development.  
 
-## 🕹 Game Design  
-
-**Mechanics**  
-[Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
 
