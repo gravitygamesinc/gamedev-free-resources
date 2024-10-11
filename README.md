@@ -77,15 +77,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 ## Audio  
 
-**◾ Music**  
-[Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
-[FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
-[Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
-[Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
-[Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
-[UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
-
-**◾ Sound**  
+**◾ OST**  
 [FreePD](https://freepd.com/) - Royalty-free public domain music library.  
 [FreeSFX](https://www.freesfx.co.uk/) - Provides a large library of free and paid sound effects, specifically focusing on game audio.  
 [FreeSound](https://freesound.org/) - Large community-driven library of free sound effects and music for various uses.  
@@ -99,7 +91,15 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [ZapsPlat](https://www.zapsplat.com/) - Offers free high-quality sound effects categorized for easy browsing.  
 
-## Development  
+**◾ SFX**  
+[Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
+[FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
+[Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
+[Icons8](https://icons8.com/music) - Offers a selection of royalty-free music alongside other creative assets like icons and illustrations.  
+[Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
+[UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
+
+## Programming  
 
 **◾ Code**  
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
