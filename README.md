@@ -72,7 +72,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Textures.com](https://www.textures.com/) - Large marketplace for various textures, both free and paid.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 
-**◾ UI**  
+**UI**  
 [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/) - Free mobile UI package.  
 
 ## Audio  
