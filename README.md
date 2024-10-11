@@ -6,7 +6,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 ## Art and Animation
 
-**◾ 2D Model**  
+**2D Model**  
 [CraftPix.Net](https://craftpix.net/) - Game assets for commercial use.  
 [DevAssets](https://devassets.com/) - High-quality game assets for sale.  
 [Itch.io](https://itch.io/game-assets) - Game assets, both free and paid.  
@@ -19,7 +19,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) -  Free assets for game development.  
 [Widgetworx](https://www.widgetworx.com/projects/sl.html) - Free graphic objects for game development.  
 
- **◾ 3D Model**  
+ **3D Model**  
 [Blender 3D Models](https://www.blender-models.com/) - Website offering downloadable 3D models compatible with Blender software.  
 [BlenderNation](https://www.blendernation.com/category/art/free-blender-models/) - Website offers tutorials and resources for using Blender.  
 [CadNav](https://www.cadnav.com/3d-models/) - Offers 3D models, likely with a focus on engineering and technical uses.  
@@ -37,23 +37,23 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) -  Free assets for game development.  
 
-**◾ 3D Animation**  
+**3D Animation**  
 [Free3d](https://free3d.com/) - Collection of free 3D models for various uses, including game development.  
 [Mixamo](https://www.mixamo.com/#/) - Provides free and paid 3D character animations that work with various game engines.  
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) -  Free assets for game development.  
 
-**◾ Background**  
+**Background**  
 [HeroPatterns](https://heropatterns.com/) - Free, repeatable SVG background patterns for web projects.  
 [Trianglify.io](https://trianglify.io/) - Low poly pattern generator to create unique backgrounds.  
 [UnluckyStudio](https://unluckystudio.com/category/freegameart/) - Free game art for 2D games, including characters, backgrounds, and weapons.  
 
-**◾ Font**  
+**Font**  
 [10001Fonts](https://www.1001fonts.com/) - Offers a large collection of free downloadable fonts for various uses.  
 [Dafont](https://www.dafont.com/pt/) - Provides a library of free fonts with a focus on artistic and decorative styles.  
 [Font Squirel](https://www.fontsquirrel.com/) - Curates and offers free, high-quality fonts with clear licensing information for commercial use.  
 
-**◾ Icon**  
+**Icon**  
 [DevianArt7Soul1](https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453) - Offers a specific set of 420 pixel art icons designed for RPG games.  
 [Flaticon](https://www.flaticon.com/) - Offers a vast library of free and paid icons in various styles.  
 [Fontello](https://fontello.com/) - Allows you to create custom icon fonts by combining free and paid icons from various sources.  
@@ -62,7 +62,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [IconStore](https://iconstore.co/) - Sells high-quality, premium icons for various uses.  
 [SVGrepo](https://www.svgrepo.com/)- Provides a collection of free SVG icons for web projects.  
 
-**◾ Texture**  
+**Texture**  
 [GameTextures](https://gametextures.com/shop?order=new&s=) - Focused marketplace for game textures.  
 [LotPixel](https://www.lotpixel.com/) - Website offering royalty-free textures and materials for 3D projects.  
 [MatCap](https://github.com/nidorx/matcaps#matcaps) - Open-source library of materials for 3D rendering software.  
@@ -77,7 +77,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 ## Audio  
 
-**◾ OST**  
+**OST**  
 [FreePD](https://freepd.com/) - Royalty-free public domain music library.  
 [FreeSound](https://freesound.org/) - Large community-driven library of free sound effects and music for various uses.  
 [GameSounds](https://gamesounds.xyz/#google_vignette) - Collection of free sound effects specifically designed for game development.  
@@ -90,7 +90,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 [ZapsPlat](https://www.zapsplat.com/) - Offers free high-quality sound effects categorized for easy browsing.  
 
-**◾ SFX**  
+**SFX**  
 [Bensound](https://www.bensound.com/) - Website by Bensound providing royalty-free music with a focus on clean and modern sounds.  
 [FreeMusicArchive](https://freemusicarchive.org/) - Large collection of free, licensed music for various creative projects.  
 [Incompetech](https://incompetech.com/music/) - Kevin MacLeod's website offering a vast library of free, royalty-free music for creators.  
@@ -100,7 +100,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 ## Programming  
 
-**◾ Code**  
+**Code**  
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
 [AirConsole](https://developers.airconsole.com/#!/) - Platform for creating multiplayer games playable on mobile devices or web browsers.  
 [Bgfx](https://github.com/bkaradzic/bgfx?tab=readme-ov-file) - Open-source graphics library for rendering graphics in video games.  
@@ -120,6 +120,6 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 ## Game Design  
 
-**◾ Mechanics**  
+**Mechanics**  
 [Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
 
