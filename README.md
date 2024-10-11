@@ -104,14 +104,17 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
 [AirConsole](https://developers.airconsole.com/#!/) - Platform for creating multiplayer games playable on mobile devices or web browsers.  
 [Bgfx](https://github.com/bkaradzic/bgfx?tab=readme-ov-file) - Open-source graphics library for rendering graphics in video games.  
+[Cinder](https://libcinder.org/) - C++ libraries for creative coding and game development.  
 [CodeOpen](https://codepen.io/) - Online platform for building and showcasing interactive web projects, including games.  
 [Chess Programing Wiki](https://www.chessprogramming.org/Main_Page) - Resource dedicated to knowledge and techniques for programming chess AIs.  
 [DotRecast](https://github.com/ikpil/DotRecast) - Open-source navigation mesh library for pathfinding in games.  
 [Ecs-lib](https://github.com/nidorx/ecs-lib#readme) - Open-source library for implementing the Entity Component System (ECS) architecture in games.  
+[JavaScript Performance Monitor](https://github.com/mrdoob/stats.js) - Tool for monitoring performance bottlenecks in JavaScript games.  
 [KitLang](https://www.kitlang.org/) - Programming language specifically designed for creating games.  
 [Kontra](https://straker.github.io/kontra/) - Open-source JavaScript game library for 2D game development.  
 [Love2D](https://love2d.org/wiki/Main_Page) - Open-source game engine focused on 2D game development in Lua.  
 [P2.js](https://github.com/schteppe/p2.js) - Open-source JavaScript library for physics simulation in 2D games.  
+[PYGames](https://github.com/pygame/pygame) - Popular Python library for creating multimedia applications and games.  
 [SimpleAI](https://mgerhardy.github.io/simpleai/) - Open-source Java library for basic AI behavior in games.  
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - Free assets for game development.  
 
