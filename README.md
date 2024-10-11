@@ -79,7 +79,6 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 **◾ OST**  
 [FreePD](https://freepd.com/) - Royalty-free public domain music library.  
-[FreeSFX](https://www.freesfx.co.uk/) - Provides a large library of free and paid sound effects, specifically focusing on game audio.  
 [FreeSound](https://freesound.org/) - Large community-driven library of free sound effects and music for various uses.  
 [GameSounds](https://gamesounds.xyz/#google_vignette) - Collection of free sound effects specifically designed for game development.  
 [MixKit](https://mixkit.co/free-sound-effects/game/) - Free sound effects library specifically for games and other creative projects.  
