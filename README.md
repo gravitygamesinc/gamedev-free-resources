@@ -4,7 +4,7 @@ Looking for free assets to bring your game to life? This repo is a treasure trov
 
 Here, you'll find a wide range of assets, including 2D and 3D art, sound effects, music, and more, all available at no cost. These resources are perfect for indie developers looking to enhance their projects without breaking the bank. Start building your game with these ready-to-use assets today!  
 
-## Art and Animation
+## 🎨 Art and Animation
 
 **2D Model**  
 [CraftPix.Net](https://craftpix.net/) - Game assets for commercial use.  
@@ -75,7 +75,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 **UI**  
 [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/) - Free mobile UI package.  
 
-## Audio  
+## 🔊 Audio  
 
 **OST**  
 [FreePD](https://freepd.com/) - Royalty-free public domain music library.  
@@ -98,7 +98,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Musopen](https://musopen.org/#google_vignette) - Non-profit organization offering free public domain recordings, sheet music, and educational resources for classical music.  
 [UISounds](http://raisedbeaches.com/octave/index.html) - Free library of user interface sound effects for web and mobile applications.  
 
-## Programming  
+## 💻 Programming  
 
 **Code**  
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
@@ -118,7 +118,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [SimpleAI](https://mgerhardy.github.io/simpleai/) - Open-source Java library for basic AI behavior in games.  
 [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - Free assets for game development.  
 
-## Game Design  
+## 🕹 Game Design  
 
 **Mechanics**  
 [Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
