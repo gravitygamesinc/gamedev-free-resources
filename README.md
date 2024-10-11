@@ -1,4 +1,4 @@
-## Gamedev-free-resources  
+## 🧱 Gamedev-free-resources  
 
 Looking for free assets to bring your game to life? This repo is a treasure trove of free resources for game developers!  
 
