@@ -5,12 +5,10 @@ Looking for free assets to bring your game to life? This repo is a treasure trov
 Here, you'll find a wide range of assets, including 2D and 3D art, sound effects, music, and more, all available at no cost. These resources are perfect for indie developers looking to enhance their projects without breaking the bank. Start building your game with these ready-to-use assets today!  
 
 ### 📌 Free ready-to-use game assets.  
-
 🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources/edit/main/README.md#-art-and-animation)  
 💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources/edit/main/README.md#-programming)  
-    
-### 🔎 Platforms for free game resources.  
 
+### 🔎 Platforms for free game resources.  
 🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources/edit/main/README.md#-programming)  
 🔊 [Audio](https://github.com/bluegravitystudios/gamedev-free-resources/edit/main/README.md#-audio)  
 🕹 [Game Design](https://github.com/bluegravitystudios/gamedev-free-resources/edit/main/README.md#-game-design)  
