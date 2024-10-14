@@ -3,18 +3,17 @@
 >Looking for free assets to bring your game to life? This repo is a treasure trove of free resources for game developers!  
 Here, you'll find a wide range of assets, including 2D and 3D art, sound effects, music, and more, all available at no cost. These resources are perfect for indie developers looking to enhance their projects without breaking the bank. Start building your game with these ready-to-use assets today!  
 
-### 📌 Free ready-to-use game assets.  
+**📌 Free ready-to-use game assets.**  
 🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation)  
 💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming)  
 
-### 🔎 Platforms for free game resources.  
+**🔎 Platforms for free game resources.**  
 🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation-1)  
 🔊 [Audio](https://github.com/bluegravitystudios/gamedev-free-resources#-audio)  
 🕹 [Game Design](https://github.com/bluegravitystudios/gamedev-free-resources#-game-design)  
 💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming-1)  
 
 ## 🎨 Art and Animation
-**📌 Free ready-to-use game assets.**
 
 ### 2D Model  
 [Widgetworx](https://www.widgetworx.com/projects/sl.html) - Free graphic assets for game development.  
@@ -101,7 +100,6 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/) - Free mobile UI package.  
 
 ## 💻 Programming  
-**📌 Free ready-to-use game assets.**  
 
 ### Code  
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
@@ -161,7 +159,6 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 
 ## 🎨 Art and Animation
-**🔎 Platforms for free game resources.**  
 
 ### 2D Model  
 [CraftPix.Net](https://craftpix.net/) - Game assets for commercial use.  
@@ -228,7 +225,6 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Unity Asset Store](https://assetstore.unity.com/) - Official marketplace for Unity game assets.  
 
 ## 🔊 Audio  
-**🔎 Platforms for free game resources.**  
 
 ### OST  
 [FreePD](https://freepd.com/) - Royalty-free public domain music library.  
@@ -252,13 +248,11 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [ZapsPlat](https://www.zapsplat.com/) -  Offers free high-quality sound effects categorized for easy browsing.  
 
 ## 🕹 Game Design  
-**🔎 Platforms for free game resources.**  
 
 ### Mechanics  
 [Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
 
 ## 💻 Programming  
-**🔎 Platforms for free game resources.**  
 
 ### Code  
 [AirConsole](https://developers.airconsole.com/#!/) - Platform for creating multiplayer games playable on mobile devices or web browsers.  
