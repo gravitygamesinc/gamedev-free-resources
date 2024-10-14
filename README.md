@@ -4,8 +4,8 @@ Looking for free assets to bring your game to life? This repo is a treasure trov
 
 Here, you'll find a wide range of assets, including 2D and 3D art, sound effects, music, and more, all available at no cost. These resources are perfect for indie developers looking to enhance their projects without breaking the bank. Start building your game with these ready-to-use assets today!  
 
-🔎 Links to general sites.  
-📌 Links to specific assets.  
+🔎 Platforms for free game resources.  
+📌 Free ready-to-use game assets.  
 
 ## 🎨 Art and Animation
 
@@ -124,6 +124,20 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 
 **Skybox**  
 📌 [Real stars skybox](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333) -  Three skyboxes of the stars in the real night sky.  
+
+**Terrain**  
+📌 [Easy roads](https://assetstore.unity.com/packages/3d/characters/easyroads3d-free-v3-987) -  3D road-building asset, it allows users to create roads and terrains.  
+📌 [Fantasy forest environment](https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361) -  It includes trees, plants, rocks and is optimized for mobile devices.  
+📌 [Low poly nature forest](https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742#content) -  Free asset that includes a low-poly 3D model of a nature forest that can be used in Unity game development projects.  
+📌 [Mountain terrain](https://assetstore.unity.com/packages/3d/environments/landscapes/mountain-terrain-rocks-and-tree-97905) -  Free Terrain extension asset that can be added to Unity projects.  
+📌 [Nature starter kit](https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977) -  Contains trees and bushes compatible with the built-in tree generator, so you can easily create all kinds of new variations of your own.  
+📌 [PCG layered biomes](https://www.unrealengine.com/marketplace/en-US/product/pcg-layered-biomes) -  Plugin for Unreal Engine that uses procedural generation (PCG) to create layered biomes (large, distinct environments) in your game world.  
+📌 [Road terrain assets](https://assetstore.unity.com/packages/3d/environments/roadways/kajaman-s-roads-free-52628) -  Includes 3D road models for Unity.  
+📌 [Stylized grass](https://assetstore.unity.com/packages/3d/environments/smm-stylized-grass-184975) -  Asset that can be used to create stylized grass for 3D environments.  
+📌 [Terrain asset pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808) -  Free asset pack that contains a sample terrain for Unity.  
+📌 [Terrain demo scene](https://assetstore.unity.com/packages/3d/environments/unity-terrain-urp-demo-scene-213197) -  Free Terrain extension asset that can be added to Unity projects.  
+📌 [Unity terrain](https://assetstore.unity.com/packages/3d/environments/unity-terrain-hdrp-demo-scene-213198) -  Terrain package fully customizable for re-use with your Unity projects.  
+📌 [Water assets](https://assetstore.unity.com/packages/3d/environments/waterworks-simple-water-ocean-river-system-for-urp-reflection-re-206909) -  WaterWorks is a simple water/ocean/river system for URP that adds reflection and refraction to your Unity project.  
 
 **Texture**  
 🔎 [GameTextures](https://gametextures.com/shop?order=new&s=) - Focused marketplace for game textures.  
