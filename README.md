@@ -6,14 +6,14 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 |📌 Free ready-to-use game assets |                                                             
 |------------------|
 |🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation) |  
-|💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming)|  
+|💻 [Developer](https://github.com/bluegravitystudios/gamedev-free-resources#-Developer)|  
 
 |🔎 Platforms for free game resources.**  |
 |------------------|
 |🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation-1)  |
 |🔊 [Audio](https://github.com/bluegravitystudios/gamedev-free-resources#-audio)  |
 |🕹 [Game Design](https://github.com/bluegravitystudios/gamedev-free-resources#-game-design)  |
-|💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming-1)  |
+|💻 [Developer](https://github.com/bluegravitystudios/gamedev-free-resources#-Developer-1)  |
 
 
 # 📌 Free ready-to-use game assets.
@@ -103,7 +103,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 ### UI  
 [Mobile Game GUI](https://graphicburger.com/mobile-game-gui/) - Free mobile UI package.  
 
-## 💻 Programming  
+## 💻 Developer  
 
 ### Code  
 [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners?tab=readme-ov-file) - Open-source project with resources on learning 3D game shaders.  
@@ -257,7 +257,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 ### Mechanics  
 [Board Geek Game](https://boardgamegeek.com/browse/boardgamemechanic) - Explore board game mechanics and discover new games based on mechanics you enjoy.  
 
-## 💻 Programming  
+## 💻 Developer  
 
 ### Code  
 [AirConsole](https://developers.airconsole.com/#!/) - Platform for creating multiplayer games playable on mobile devices or web browsers.  
