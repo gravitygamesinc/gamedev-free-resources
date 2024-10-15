@@ -3,16 +3,20 @@
 >Looking for free assets to bring your game to life? This repo is a treasure trove of free resources for game developers!  
 Here, you'll find a wide range of assets, including 2D and 3D art, sound effects, music, and more, all available at no cost. These resources are perfect for indie developers looking to enhance their projects without breaking the bank. Start building your game with these ready-to-use assets today!  
 
-**📌 Free ready-to-use game assets.**  
-🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation)  
-💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming)  
+|📌 Free ready-to-use game assets |                                                             
+|------------------|
+|🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation) |  
+|💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming)|  
 
-**🔎 Platforms for free game resources.**  
-🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation-1)  
-🔊 [Audio](https://github.com/bluegravitystudios/gamedev-free-resources#-audio)  
-🕹 [Game Design](https://github.com/bluegravitystudios/gamedev-free-resources#-game-design)  
-💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming-1)  
+|🔎 Platforms for free game resources.**  |
+|------------------|
+|🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation-1)  |
+|🔊 [Audio](https://github.com/bluegravitystudios/gamedev-free-resources#-audio)  |
+|🕹 [Game Design](https://github.com/bluegravitystudios/gamedev-free-resources#-game-design)  |
+|💻 [Programming](https://github.com/bluegravitystudios/gamedev-free-resources#-programming-1)  |
 
+
+# 📌 Free ready-to-use game assets.
 ## 🎨 Art and Animation
 
 ### 2D Model  
@@ -157,6 +161,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 [Viewport widget](https://www.unrealengine.com/marketplace/en-US/product/viewport-widget) -  Code plugin for Unreal Engine that allows users to create a separate 3D scene within their project. This can be useful for things like inventory screens or character customization screens.  
 [XROO plug-in for Unreal](https://www.unrealengine.com/marketplace/en-US/product/xroo-plugin-for-unreal-engine) -  This plugin enables integration of XROO, a spatial computing platform, within your Unreal Engine project.  
 
+# 🔎 Platforms for free game resources.
 
 ## 🎨 Art and Animation
 
