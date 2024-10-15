@@ -6,7 +6,7 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 |📌 Free ready-to-use game assets |                                                             
 |------------------|
 |🎨 [Art and Animation](https://github.com/bluegravitystudios/gamedev-free-resources#-art-and-animation) |  
-|💻 [Developer](https://github.com/bluegravitystudios/gamedev-free-resources#-Developer)|  
+|💻 [Developer](https://github.com/bluegravitystudios/gamedev-free-resources#-developer)|  
 
 |🔎 Platforms for free game resources.**  |
 |------------------|
