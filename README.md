@@ -265,6 +265,11 @@ Here, you'll find a wide range of assets, including 2D and 3D art, sound effects
 - [CodeOpen](https://codepen.io/) - Online platform for building and showcasing interactive web projects, including games.  
 - [Unreal Engine](https://www.unrealengine.com/marketplace/en-US/store) - Free assets for game development.  
 
+###
 
-[![Return](https://img.shields.io/badge/Return-README-808080?style=for-the-badge&logoColor=black)](https://github.com/bluegravitystudios/bgs-gamedev-repo/blob/main/README.md)
+[//]: #Buttons
+<div align="center">
+  <a href="https://github.com/bluegravitystudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2044.png" height="40" alt="Back home"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources?tab=readme-ov-file#-game-development-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/4621adda427d28aab7f18d513831b2ed22c30fae/profile/Asset%2045.png" height="40" alt="Back top"  /></a>
+</div>
 
