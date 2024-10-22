@@ -5,7 +5,18 @@
 Welcome to our Free Resources repo!
 Here you'll find a curation of high-quality and free-to-use assets of all kinds to help you bring your indie game to life!
 
-Head to our ready to go section to check our selection of free assets, or venture into our free assets platforms to hunt down the perfect asset for your project!
+Head to our [ready to go](https://github.com/bluegravitystudios/gamedev-101.md?tab=readme-ov-file#-game-development-101) section to check our selection of free assets, or venture into our free assets platforms to hunt down the perfect asset for your project!
+
+Didn't find what you were looking for? Try one of our other repos!
+
+[//]: #Repos
+<div align="lef">
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2058%402x.png" height="40" alt="Free Assets"  /></a>
+  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2050%402x.png" height="40" alt="Free Platforms"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2051%402x.png" height="40" alt="GameDev 101"  /></a>
+  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2052%402x.png" height="40" alt="Learning Resources"  /></a>
+  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/616b2c74884fa2699452daf5aac735de042767a5/Asset%2053%402x.png" height="40" alt="GameDev News"  /></a>
+</div>
 
 ### Table of Contents
 
